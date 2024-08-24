@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Web Intelligence
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @version      1.1.1
 // @description  Dynamically load a script from GitHub
 // @author       Asher Ding
 // @match        *://*/*
