@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Load Script from GitHub
+// @name         Web Intelligence
 // @namespace    http://tampermonkey.net/
-// @version      0.11
+// @version      0.1.0
 // @description  Dynamically load a script from GitHub
 // @author       Asher Ding
 // @match        *://*/*
@@ -14,6 +14,6 @@
 (function () {
     'use strict';
 
-    console.log("欢迎使用这个脚本！这是一个用来优化网页功能的自定义脚本，期待为您提供更好的使用体验。");
+    console.log("欢迎使用网页优化脚本！这是一个用来优化网页功能的自定义脚本，期待为您提供更好的使用体验。");
 
 })();
