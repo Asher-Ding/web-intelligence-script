@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Load Script from GitHub
 // @namespace    http://tampermonkey.net/
-// @version      o.1
+// @version      0.11
 // @description  Dynamically load a script from GitHub
 // @author       Asher Ding
 // @match        *://*/*
@@ -14,5 +14,6 @@
 (function () {
     'use strict';
 
-    // Additional code here if needed
+    console.log("欢迎使用这个脚本！这是一个用来优化网页功能的自定义脚本，期待为您提供更好的使用体验。");
+
 })();
