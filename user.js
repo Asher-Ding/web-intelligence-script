@@ -15,5 +15,6 @@
     'use strict';
 
     console.log("欢迎使用网页优化脚本！这是一个用来优化网页功能的自定义脚本，期待为您提供更好的使用体验。");
+    console.log('仓库地址：https://github.com/Asher-Ding/web-intelligence-script')
 
 })();
